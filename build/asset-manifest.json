@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/highscore/static/css/main.e6c13ad2.css",
+    "main.js": "/highscore/static/js/main.aadb6378.js",
+    "static/js/787.6f4df2e6.chunk.js": "/highscore/static/js/787.6f4df2e6.chunk.js",
+    "index.html": "/highscore/index.html",
+    "main.e6c13ad2.css.map": "/highscore/static/css/main.e6c13ad2.css.map",
+    "main.aadb6378.js.map": "/highscore/static/js/main.aadb6378.js.map",
+    "787.6f4df2e6.chunk.js.map": "/highscore/static/js/787.6f4df2e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aadb6378.js"
+  ]
+}
